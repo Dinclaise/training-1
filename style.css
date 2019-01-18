@@ -51,6 +51,8 @@
 	padding: 0;
 	justify-content: space-between;
 	width: 615px;
+	max-height: 88px;
+	align-items: center;
 }
 
 .header nav {
