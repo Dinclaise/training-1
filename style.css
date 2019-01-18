@@ -20,7 +20,18 @@ flex-direction: row;
 	-ms- flex-direction: row;
 	-o- flex-direction: row;
 }
-.logo {
 
 
+.header nav {
+display: flex;
+	display: -webkit- flex;
+	display: -moz- flex;
+	display: -ms- flex;
+	display: -o- flex;
+flex-direction: row;
+	-webkit- flex-direction: row;
+	-moz- flex-direction: row;
+	-ms- flex-direction: row;
+	-o- flex-direction: row;
+	justify-content: center;
 }
