@@ -1,0 +1,11 @@
+header {
+	max-width: 1920px;
+	height: 100vh;
+}
+
+.logo {
+	background-image: url(image/Logo.jpeg);
+	background-size: 100%;
+	background-position: 0;
+
+}
