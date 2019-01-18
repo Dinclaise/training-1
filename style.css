@@ -1,11 +1,16 @@
-header {
+* {
+	margin: 0;
+} 
+
+.header {
 	max-width: 1920px;
 	height: 100vh;
-}
-
-.logo {
-	background-image: url(image/Logo.jpeg);
-	background-size: 100%;
+	background-image: url('image/Layer 7.jpeg');
+	border: 1px solid #000;	
+		background-size: 100%;
 	background-position: 0;
+}
+.logo {
+
 
 }
